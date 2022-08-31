@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(255, 255, 255);
+    padding-left: 10%;
+    padding-top: 2%;
+    align-content: center;
+    }
+
+h1 {
+    font-family:'Courier New', Courier, monospace;
+    color: brown;
+    }
+
+P   {
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    align-content: center;
+
+    }
